@@ -1,0 +1,15 @@
+PODS:
+  - SwiftForms (1.8.2)
+  - SwipyCell (3.3.0)
+
+DEPENDENCIES:
+  - SwiftForms
+  - SwipyCell (~> 3.3)
+
+SPEC CHECKSUMS:
+  SwiftForms: f0d4d30401e21de87d9b7b63a4691a3d4e22bab5
+  SwipyCell: 9f7f0eb9c691d90c7b20963ec85a37ee32c3404f
+
+PODFILE CHECKSUM: e5fdaffc37f20025734086027e27a8d7d1e99752
+
+COCOAPODS: 1.3.1

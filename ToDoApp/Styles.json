@@ -1,0 +1,66 @@
+[
+ {
+     "createTask": {
+         "color": "#3399FF",
+         "fontName": "Helvetica",
+         "fontSize": 16
+     },
+     "navigationBar": {
+         "fontName": "Helvetica",
+         "fontSize": 18,
+         "tintColor": "#900C3F"
+     },
+     "tabBar": {
+         "tintColor": "#900C3F"
+     },
+     "taskCell": {
+         "date": {
+             "color": "#bbbbbb",
+             "fontName": "Helvetica",
+             "fontSize": 15
+         },
+         "text": {
+             "color": "#000000",
+             "fontName": "Helvetica",
+             "fontSize": 18
+         },
+         "title": {
+             "color": "#000000",
+             "fontName": "Helvetica-Bold",
+             "fontSize": 18
+         }
+     }
+ },
+ {
+     "createTask": {
+         "color": "#3383FF",
+         "fontName": "Helvetica",
+         "fontSize": 16
+     },
+     "navigationBar": {
+         "fontName": "Helvetica",
+         "fontSize": 18,
+         "tintColor": "#3383FF"
+     },
+     "tabBar": {
+         "tintColor": "#3383FF"
+     },
+     "taskCell": {
+         "date": {
+             "color": "#bbbbbb",
+             "fontName": "Helvetica",
+             "fontSize": 15
+         },
+         "text": {
+             "color": "#000000",
+             "fontName": "Helvetica",
+             "fontSize": 18
+         },
+         "title": {
+             "color": "#000000",
+             "fontName": "Helvetica-Bold",
+             "fontSize": 18
+         }
+     }
+ }]
+ 
